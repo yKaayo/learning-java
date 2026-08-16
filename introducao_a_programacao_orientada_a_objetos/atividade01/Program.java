@@ -1,4 +1,4 @@
-package atividade01;
+package introducao_a_programacao_orientada_a_objetos.atividade01;
 
 import java.util.Locale;
 import java.util.Scanner;

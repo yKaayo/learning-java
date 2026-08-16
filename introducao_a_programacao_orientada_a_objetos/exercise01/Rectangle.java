@@ -1,4 +1,4 @@
-package exercise01;
+package introducao_a_programacao_orientada_a_objetos.exercise01;
 
 public class Rectangle {
     public double width;

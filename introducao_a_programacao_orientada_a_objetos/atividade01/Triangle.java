@@ -1,4 +1,4 @@
-package atividade01;
+package introducao_a_programacao_orientada_a_objetos.atividade01;
 
 public class Triangle {
     public double sideA;

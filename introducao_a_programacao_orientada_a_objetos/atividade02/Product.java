@@ -1,4 +1,4 @@
-package atividade02;
+package introducao_a_programacao_orientada_a_objetos.atividade02;
 
 public class Product {
     public String name;

@@ -1,4 +1,4 @@
-package exercise02;
+package introducao_a_programacao_orientada_a_objetos.exercise02;
 
 import java.util.Locale;
 import java.util.Scanner;
